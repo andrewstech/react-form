@@ -1,0 +1,27 @@
+{
+  "name": "quill-forms-example-typeform-clone-in-react-js-and-typescript",
+  "version": "1.0.0",
+  "description": "How to create typeform clone easily with React",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@quillforms/react-renderer-utils": "3.0.0",
+    "@quillforms/renderer-core": "3.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "build": "react-scripts build"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
